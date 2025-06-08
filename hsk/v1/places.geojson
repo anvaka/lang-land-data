@@ -1,0 +1,693 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -37.518,
+          -11.54
+        ]
+      },
+      "properties": {
+        "symbolzoom": 4,
+        "name": "Tranquil Climate Land",
+        "labelId": "ad7d2c",
+        "ownerId": "18"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.792,
+          -8.769
+        ]
+      },
+      "properties": {
+        "symbolzoom": 4,
+        "name": "Honor Exchange",
+        "labelId": "6e9ec2",
+        "ownerId": "5"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.386,
+          -31.779
+        ]
+      },
+      "properties": {
+        "symbolzoom": 5,
+        "name": "Connection Bridge",
+        "labelId": "c7732c",
+        "ownerId": "17"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.517,
+          -33.776
+        ]
+      },
+      "properties": {
+        "symbolzoom": 4,
+        "name": "Certainty Realm",
+        "labelId": "4abfea",
+        "ownerId": "0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.819,
+          -28.214
+        ]
+      },
+      "properties": {
+        "symbolzoom": 5,
+        "name": "Approximation Archipelago",
+        "labelId": "ffbc31",
+        "ownerId": "31"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.587,
+          -33.643
+        ]
+      },
+      "properties": {
+        "symbolzoom": 4,
+        "name": "Life Roles Realm",
+        "labelId": "2646ef",
+        "ownerId": "3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -37.973,
+          -2.393
+        ]
+      },
+      "properties": {
+        "symbolzoom": 5,
+        "name": "Container Cove",
+        "labelId": "460b11",
+        "ownerId": "23"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.066,
+          -0.315
+        ]
+      },
+      "properties": {
+        "symbolzoom": 4,
+        "name": "Hustle Forge",
+        "labelId": "72aa7d",
+        "ownerId": "9"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.239,
+          -11.108
+        ]
+      },
+      "properties": {
+        "symbolzoom": 4,
+        "name": "Mouth & Breath Realm",
+        "labelId": "1d97dd",
+        "ownerId": "4"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.101,
+          -39.589
+        ]
+      },
+      "properties": {
+        "symbolzoom": 5,
+        "name": "Exclamation Land",
+        "labelId": "10e391",
+        "ownerId": "38"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.933,
+          -22.727
+        ]
+      },
+      "properties": {
+        "symbolzoom": 5,
+        "name": "Showcase Realm",
+        "labelId": "ab0e29",
+        "ownerId": "13"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.26,
+          -22.214
+        ]
+      },
+      "properties": {
+        "symbolzoom": 5,
+        "name": "Connector Bridge",
+        "labelId": "1c98d5",
+        "ownerId": "25"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -35.89,
+          -23.184
+        ]
+      },
+      "properties": {
+        "symbolzoom": 5,
+        "name": "Inkspire Realm",
+        "labelId": "b88442",
+        "ownerId": "26"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.967,
+          -37.168
+        ]
+      },
+      "properties": {
+        "symbolzoom": 4,
+        "name": "Iron Resolve",
+        "labelId": "4b2563",
+        "ownerId": "12"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.332,
+          21.968
+        ]
+      },
+      "properties": {
+        "symbolzoom": 4,
+        "name": "Caution Crossroads",
+        "labelId": "2d0872",
+        "ownerId": "6"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.87,
+          25.882
+        ]
+      },
+      "properties": {
+        "symbolzoom": 4,
+        "name": "Dwelling Realm",
+        "labelId": "b4c12f",
+        "ownerId": "20"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.24,
+          -24.499
+        ]
+      },
+      "properties": {
+        "symbolzoom": 5,
+        "name": "Marketplace Realm",
+        "labelId": "80e48a",
+        "ownerId": "11"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.569,
+          7.235
+        ]
+      },
+      "properties": {
+        "symbolzoom": 4,
+        "name": "Space Domain",
+        "labelId": "2f0b13",
+        "ownerId": "24"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.948,
+          14.812
+        ]
+      },
+      "properties": {
+        "symbolzoom": 5,
+        "name": "Gravity Realm",
+        "labelId": "5d6171",
+        "ownerId": "34"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.458,
+          -13.692
+        ]
+      },
+      "properties": {
+        "symbolzoom": 5,
+        "name": "Test & Treatment Realm",
+        "labelId": "d6c5db",
+        "ownerId": "28"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.758,
+          36.621
+        ]
+      },
+      "properties": {
+        "symbolzoom": 5,
+        "name": "Skybound Menagerie",
+        "labelId": "d511e0",
+        "ownerId": "36"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.628,
+          -38.566
+        ]
+      },
+      "properties": {
+        "symbolzoom": 5,
+        "name": "Change Frontier",
+        "labelId": "99cc2c",
+        "ownerId": "8"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.382,
+          -19.476
+        ]
+      },
+      "properties": {
+        "symbolzoom": 5,
+        "name": "Rush Realm",
+        "labelId": "9e209d",
+        "ownerId": "15"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.014,
+          43.025
+        ]
+      },
+      "properties": {
+        "symbolzoom": 5,
+        "name": "Clash Arena",
+        "labelId": "caf74b",
+        "ownerId": "10"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.22,
+          23.681
+        ]
+      },
+      "properties": {
+        "symbolzoom": 5,
+        "name": "Vista Realm",
+        "labelId": "ee4928",
+        "ownerId": "27"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.021,
+          7.755
+        ]
+      },
+      "properties": {
+        "symbolzoom": 4,
+        "name": "Style Silhouette",
+        "labelId": "27496e",
+        "ownerId": "16"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.033,
+          33.199
+        ]
+      },
+      "properties": {
+        "symbolzoom": 4,
+        "name": "Shadow Vale",
+        "labelId": "072f34",
+        "ownerId": "1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.176,
+          23.567
+        ]
+      },
+      "properties": {
+        "symbolzoom": 5,
+        "name": "Scarcity Realm",
+        "labelId": "9efd4d",
+        "ownerId": "37"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.648,
+          -21.111
+        ]
+      },
+      "properties": {
+        "symbolzoom": 4,
+        "name": "South Timeflow",
+        "labelId": "b2f95e",
+        "ownerId": "2"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.443,
+          40.972
+        ]
+      },
+      "properties": {
+        "symbolzoom": 5,
+        "name": "Joyful Realm",
+        "labelId": "e06d2c",
+        "ownerId": "29"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.019,
+          -10.752
+        ]
+      },
+      "properties": {
+        "symbolzoom": 5,
+        "name": "North Timeflow",
+        "labelId": "078f3f",
+        "ownerId": "30"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.489,
+          31.972
+        ]
+      },
+      "properties": {
+        "symbolzoom": 5,
+        "name": "Unravel Realm",
+        "labelId": "c65e5c",
+        "ownerId": "14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.383,
+          -44.48
+        ]
+      },
+      "properties": {
+        "symbolzoom": 5,
+        "name": "Edgeways Realm",
+        "labelId": "576e22",
+        "ownerId": "35"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.79,
+          32.166
+        ]
+      },
+      "properties": {
+        "symbolzoom": 5,
+        "name": "Enigma Land",
+        "labelId": "5278ef",
+        "ownerId": "22"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.036,
+          25.715
+        ]
+      },
+      "properties": {
+        "symbolzoom": 4,
+        "name": "Waterscape Realm",
+        "labelId": "dd0ec6",
+        "ownerId": "21"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -22.953,
+          30.502
+        ]
+      },
+      "properties": {
+        "symbolzoom": 4,
+        "name": "Earthroot Realm",
+        "labelId": "c8ca8b",
+        "ownerId": "19"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.438,
+          41.731
+        ]
+      },
+      "properties": {
+        "symbolzoom": 5,
+        "name": "Motionworks Realm",
+        "labelId": "8ccb53",
+        "ownerId": "7"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.306,
+          -0.686
+        ]
+      },
+      "properties": {
+        "symbolzoom": 5,
+        "name": "Mindscape Land",
+        "labelId": "99f040",
+        "ownerId": "39"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.123,
+          39.048
+        ]
+      },
+      "properties": {
+        "symbolzoom": 5,
+        "name": "Human Essence Land",
+        "labelId": "0e3231",
+        "ownerId": "32"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.56,
+          -15.219
+        ]
+      },
+      "properties": {
+        "symbolzoom": 6,
+        "name": "Pinnacle Realm",
+        "labelId": "30b9d7",
+        "ownerId": "41"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.754,
+          -30.535
+        ]
+      },
+      "properties": {
+        "symbolzoom": 5,
+        "name": "Uniqueness Realm",
+        "labelId": "0d159d",
+        "ownerId": "33"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -29.675,
+          0.506
+        ]
+      },
+      "properties": {
+        "symbolzoom": 5,
+        "name": "Radiance Realm",
+        "labelId": "c03694",
+        "ownerId": "40"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.673,
+          45.15
+        ]
+      },
+      "properties": {
+        "symbolzoom": 10,
+        "name": "Flexibility Islands",
+        "labelId": "e96fb0",
+        "ownerId": "42"
+      }
+    }
+  ]
+}
